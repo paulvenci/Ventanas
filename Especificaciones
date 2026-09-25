@@ -1,0 +1,18 @@
+Resumen General
+- Aplicación para determinar costos, presupuesto y gestion de stock de merma para una
+vidrieria que fabrica ventanas de aluminio y de pvc.
+- La aplicación debe ser usada tanto para celular como para PC
+- Debe tener autenticacion por usuario.
+- Los usuarios pertenecen a una vidrieria
+- La aplicacion debe gestionar stock, tipo de material (aluminio, PVC), lineas de ventana, tipo de vidrio etc.
+- La aplicacion debe permitir ir agregando ventanas, preguntando:
+    - Tipo: pvc, aluminio
+    - Medidas: ancho y alto 
+    - Si incluye marco de madera: si, no, 
+    - Linea: PVC: linea 1, linea 2, etc..
+             Aluminio: Linea 20, Linea 25, etc
+    - Cantidad
+    - Color: Folio madera, mate, etc
+- La aplicacion debe permitir gestionar los colores, lineas, tipo y perfiles a usar por cada tipo y linea
+
+            
